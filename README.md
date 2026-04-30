@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hola, soy Miguel Millones
 
 [![GitHub followers](https://img.shields.io/github/followers/MiguelMillones?label=Follow&style=social)](https://github.com/MiguelMillones)
