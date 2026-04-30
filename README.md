@@ -90,7 +90,7 @@ conocimientos = {
 
 ## ⭐ Mi mensaje para otros profesionales que aprenden a programar
 
-
+```python
 def mensaje_a_ingenieros():
     print("""
     Si eres ingeniero (electrónico, mecánico, civil, industrial...) 
@@ -109,7 +109,7 @@ def mensaje_a_ingenieros():
     
     PD: DeepSeek es un excelente compañero de trabajo.
     """)
-
+```
 
 
 <div align="center">
