@@ -111,7 +111,6 @@ def mensaje_a_ingenieros():
     """)
 ```
 
----
 
 <div align="center">
   
@@ -120,4 +119,3 @@ def mensaje_a_ingenieros():
 *Hecho con 💻, ⚡ (ing electrónico) y 🤖 DeepSeek*
 
 </div>
-```
